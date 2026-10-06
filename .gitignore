@@ -1,0 +1,6 @@
+/src/vendor/
+
+.DS_Store
+Thumbs.db
+
+/.idea
